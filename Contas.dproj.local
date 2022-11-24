@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/26 20:32:22.000.551,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 19:27:36.000.869,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 00:07:28.000.219,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 03:39:24.000.895,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 12:46:43.000.614,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 13:46:08.000.979,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 14:30:11.000.030,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 14:34:33.000.780,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 14:34:58.000.009,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 15:15:28.000.629,=D:\ProjetosMult\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 15:16:29.000.765,D:\ProjetosMult\Unit1.dfm=D:\LaserChip\View\uPrincipal.dfm</Transaction>
+    <Transaction>2022/11/22 15:16:29.000.765,D:\ProjetosMult\Unit1.pas=D:\LaserChip\View\uPrincipal.pas</Transaction>
+    <Transaction>2022/11/22 15:22:33.000.964,D:\ProjetosMult\Project1.dproj=D:\LaserChip\Contas.dproj</Transaction>
+    <Transaction>2022/11/22 15:58:05.000.941,=D:\LaserChip\Unit2.pas</Transaction>
+    <Transaction>2022/11/22 16:19:52.000.928,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 16:23:15.000.202,D:\LaserChip\Unit1.pas=D:\LaserChip\View\uFrmCads.pas</Transaction>
+    <Transaction>2022/11/22 16:23:15.000.202,D:\LaserChip\Unit1.dfm=D:\LaserChip\View\uFrmCads.dfm</Transaction>
+    <Transaction>2022/11/22 16:52:36.000.090,=D:\LaserChip\Unit2.pas</Transaction>
+    <Transaction>2022/11/22 16:55:50.000.134,D:\LaserChip\Unit2.pas=D:\LaserChip\View\uCadAgencias.pas</Transaction>
+    <Transaction>2022/11/22 16:55:50.000.134,D:\LaserChip\Unit2.dfm=D:\LaserChip\View\uCadAgencias.dfm</Transaction>
+    <Transaction>2022/11/22 16:56:25.000.287,D:\LaserChip\View\uCadAgencias.pas=D:\LaserChip\View\uFrmAgencias.pas</Transaction>
+    <Transaction>2022/11/22 16:56:25.000.287,D:\LaserChip\View\uCadAgencias.dfm=D:\LaserChip\View\uFrmAgencias.dfm</Transaction>
+    <Transaction>2022/11/22 17:02:12.000.273,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 17:05:00.000.176,D:\LaserChip\Unit1.pas=D:\LaserChip\View\uFrmContas.pas</Transaction>
+    <Transaction>2022/11/22 17:05:00.000.176,D:\LaserChip\Unit1.dfm=D:\LaserChip\View\uFrmContas.dfm</Transaction>
+    <Transaction>2022/11/22 18:14:02.000.942,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 18:22:50.000.752,D:\LaserChip\Unit1.pas=D:\LaserChip\View\uFrmManuAgencias.pas</Transaction>
+    <Transaction>2022/11/22 18:22:50.000.752,D:\LaserChip\Unit1.dfm=D:\LaserChip\View\uFrmManuAgencias.dfm</Transaction>
+    <Transaction>2022/11/22 18:25:04.000.481,D:\LaserChip\View\uFrmManuAgencias.pas=D:\LaserChip\View\uFrmManuContas.pas</Transaction>
+    <Transaction>2022/11/22 18:25:04.000.481,D:\LaserChip\View\uFrmManuAgencias.dfm=D:\LaserChip\View\uFrmManuContas.dfm</Transaction>
+    <Transaction>2022/11/22 18:25:45.000.375,=D:\LaserChip\View\uFrmManuAgencias.pas</Transaction>
+    <Transaction>2022/11/22 18:26:31.000.886,D:\LaserChip\View\uFrmCads.pas=</Transaction>
+    <Transaction>2022/11/22 19:09:36.000.322,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 19:10:13.000.383,D:\LaserChip\Model\uMAgencias.pas=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 19:10:23.000.922,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 19:10:39.000.465,D:\LaserChip\controller\uCAgencias.pas=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/22 19:11:19.000.711,D:\LaserChip\Model\uModelAgencias.pas=D:\LaserChip\Model\uMAgencias.pas</Transaction>
+    <Transaction>2022/11/22 19:11:34.000.419,D:\LaserChip\controller\uControllerAgencias.pas=D:\LaserChip\controller\uCAgencias.pas</Transaction>
+    <Transaction>2022/11/22 19:12:03.000.133,D:\LaserChip\DAO\uDAOAgencias.pas=D:\LaserChip\controller\uControllerAgencias.pas</Transaction>
+    <Transaction>2022/11/22 19:14:25.000.250,=D:\LaserChip\DAO\uDAOConn.pas</Transaction>
+    <Transaction>2022/11/22 22:23:48.000.545,=D:\LaserChip\controller\uControllerConn.pas</Transaction>
+    <Transaction>2022/11/23 00:14:39.000.116,=D:\LaserChip\controller\uControllerAgencias.pas</Transaction>
+    <Transaction>2022/11/23 00:17:17.000.796,=D:\LaserChip\Model\uEnumerador.pas</Transaction>
+    <Transaction>2022/11/23 00:25:46.000.012,D:\LaserChip\DAO\uDAOAgencias.pas=D:\LaserChip\DAO\uDAOAgencia.pas</Transaction>
+    <Transaction>2022/11/23 00:25:57.000.739,D:\LaserChip\controller\uControllerAgencias.pas=D:\LaserChip\controller\uControllerAgencia.pas</Transaction>
+    <Transaction>2022/11/23 00:26:19.000.588,D:\LaserChip\Model\uModelAgencias.pas=D:\LaserChip\Model\uModelAgencia.pas</Transaction>
+    <Transaction>2022/11/23 00:47:39.000.513,=D:\LaserChip\Model\uValidarClasses.pas</Transaction>
+    <Transaction>2022/11/23 01:26:21.000.835,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 01:28:29.000.248,D:\LaserChip\DAO\uDAOConta.pas=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 01:29:33.000.665,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 01:32:26.000.371,D:\LaserChip\Model\uModelConta.pas=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 01:34:22.000.376,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 01:35:14.000.988,D:\LaserChip\controller\uControllerConta.pas=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 20:57:20.000.481,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 21:04:52.000.758,D:\LaserChip\Unit1.pas=D:\LaserChip\Model\uModelAgxcta.pas</Transaction>
+    <Transaction>2022/11/23 21:05:48.000.562,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 21:10:40.000.714,D:\LaserChip\Unit1.pas=D:\LaserChip\DAO\uDAOAgxcta.pas</Transaction>
+    <Transaction>2022/11/23 21:12:16.000.348,=D:\LaserChip\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 21:14:43.000.911,D:\LaserChip\Unit1.pas=D:\LaserChip\controller\uControllerAgxcta.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="controller"/>
+    <File Path="controller\uControllerAgencia.pas"/>
+    <File Path="controller\uControllerConn.pas"/>
+    <File Path="controller\uControllerConta.pas"/>
+    <File Path="controller\uControllerAgxcta.pas"/>
+    <File Path="DAO"/>
+    <File Path="DAO\uDAOAgencia.pas"/>
+    <File Path="DAO\uDAOConn.pas"/>
+    <File Path="DAO\uDAOConta.pas"/>
+    <File Path="DAO\uDAOAgxcta.pas"/>
+    <File Path="Model"/>
+    <File Path="Model\uEnumerador.pas"/>
+    <File Path="Model\uModelAgencia.pas"/>
+    <File Path="Model\uModelConta.pas"/>
+    <File Path="Model\uValidarClasses.pas"/>
+    <File Path="Model\uModelAgxcta.pas"/>
+    <File Path="View"/>
+    <File Path="View\uFrmAgencias.pas"/>
+    <File Path="View\uFrmAgencias.dfm"/>
+    <File Path="View\uFrmContas.pas"/>
+    <File Path="View\uFrmContas.dfm"/>
+    <File Path="View\uFrmManuAgencias.pas"/>
+    <File Path="View\uFrmManuAgencias.dfm"/>
+    <File Path="View\uFrmManuContas.pas"/>
+    <File Path="View\uFrmManuContas.dfm"/>
+    <File Path="View\uPrincipal.pas"/>
+    <File Path="View\uPrincipal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

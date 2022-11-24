@@ -1,0 +1,24 @@
+program Contas;
+
+uses
+  Vcl.Forms,
+  uPrincipal in 'View\uPrincipal.pas' {FrmPrincipal},
+  uFrmAgencias in 'View\uFrmAgencias.pas' {FrmAgencias},
+  uFrmContas in 'View\uFrmContas.pas' {FrmContas},
+  uFrmManuContas in 'View\uFrmManuContas.pas' {FrmManuContas},
+  uFrmManuAgencias in 'View\uFrmManuAgencias.pas' {FrmManuAgencias},
+  uModelAgencias in 'Model\uModelAgencias.pas',
+  uDAOAgencias in 'DAO\uDAOAgencias.pas',
+  uDAOConn in 'DAO\uDAOConn.pas',
+  uControllerConn in 'controller\uControllerConn.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.CreateForm(TFrmManuContas, FrmManuContas);
+  Application.CreateForm(TFrmManuAgencias, FrmManuAgencias);
+  Application.Run;
+end.
